@@ -1,0 +1,7 @@
+C:\Users\gawri\source\repos\MachineTest\MachineTest\bin\Debug\MachineTest.exe.config
+C:\Users\gawri\source\repos\MachineTest\MachineTest\bin\Debug\MachineTest.exe
+C:\Users\gawri\source\repos\MachineTest\MachineTest\bin\Debug\MachineTest.pdb
+C:\Users\gawri\source\repos\MachineTest\MachineTest\obj\Debug\MachineTest.csproj.AssemblyReference.cache
+C:\Users\gawri\source\repos\MachineTest\MachineTest\obj\Debug\MachineTest.csproj.CoreCompileInputs.cache
+C:\Users\gawri\source\repos\MachineTest\MachineTest\obj\Debug\MachineTest.exe
+C:\Users\gawri\source\repos\MachineTest\MachineTest\obj\Debug\MachineTest.pdb
